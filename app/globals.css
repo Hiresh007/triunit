@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -24,4 +24,30 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+}
+/* Style the Swiper pagination container */
+.swiper-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Adjust the margin as needed */
+}
+
+/* Style the individual pagination bullets (dots) */
+.swiper-pagination-bullets  .swiper-pagination-bullet {
+  width: 6px; /* Set the width of the bullets */
+  height: 6px; /* Set the height of the bullets */
+  background-color:white; /* Set the bullet's background color */
+  margin: 0 5px; /* Adjust the margin between bullets */
+  border-radius: 50%; /* Make the bullets circular */
+  cursor: pointer; /* Add a pointer cursor on hover */
+  opacity: 1; /* Set the initial opacity */
+  transition: opacity 0.3s; /* Add a smooth transition effect on hover */
+}
+
+/* Style the active (current) pagination bullet */
+.swiper-pagination-bullets .swiper-pagination-bullet-active {
+  border-radius: 25px; /* Make the bullets circular */
+  background: #33d33a;
+  width: 15px; /* Set the width of the bullets */
 }
