@@ -59,7 +59,7 @@ const Parallax = () => {
 
                 <div className='flex items-center justify-between w-full'>
 
-                <span className='text-white text-[64px] font-semibold'>we're doing!</span>
+                <span className='text-white text-[64px] font-semibold'>we&#39;re doing!</span>
                 <div className='flex w-[45%] gap-[7rem]'>
                 <div class="hidden lg:block w-full mx-4 bt-2 border-[1px] lg:border-[1px] rounded-full opacity-20 lg:mt-16 lg:mb-16 lg:w-full">
                 </div>

@@ -41,7 +41,7 @@ const Home = () => {
           <div class="w-full flex flex-col items-left md:items-start lg:px-0  pr-12 lg:pr-0  
                 ">
                 <div className='flex w-full flex-col items-start leading-[5rem]'>
-                <span class="m-0 p-0 text-[72px] font-semibold ">We’re changing</span>
+                <span class="m-0 p-0 text-[72px] font-semibold ">We&#39;re changing</span>
                 <span class="m-0 text-[72px] font-semibold p-0">the way you</span>
                 <p class="body2 md:text-2xl text-gray-200 md:text-left mt-8">
                 </p>
@@ -99,7 +99,7 @@ const Home = () => {
              <small className='font-medium text-[#eb9236] text-[14px] tracking-[4px] '>PARTNERS</small>
              <div className='flex flex-col items-start leading-[5rem] mt-6'>
                 <span className='text-white text-[64px] font-semibold'>We work with</span>
-                <span className='text-white text-[64px] font-semibold'>India's most trusted</span>
+                <span className='text-white text-[64px] font-semibold'>India&#39;s most trusted</span>
                 <span className='text-white text-[64px] font-semibold'>brokers</span>
              </div>
            </div>
@@ -163,7 +163,7 @@ const Home = () => {
 "rgb(51, 211, 58)",}}></path></svg>
     <p className="text-[14px] text-[#f0f0f08d] ">Target Hit</p>
 </div>
-<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug '23, 11:28 am</p>
+<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug &#39;23, 11:28 am</p>
 </div>
                </SwiperSlide>
                <SwiperSlide>
@@ -184,7 +184,7 @@ const Home = () => {
 "rgb(51, 211, 58)",}}></path></svg>
     <p className="text-[14px] text-[#f0f0f08d] ">Target Hit</p>
 </div>
-<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug '23, 11:28 am</p>
+<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug &#39;23, 11:28 am</p>
 </div>
                </SwiperSlide>
                <SwiperSlide>
@@ -205,7 +205,7 @@ const Home = () => {
 "rgb(51, 211, 58)",}}></path></svg>
     <p className="text-[14px] text-[#f0f0f08d] ">Target Hit</p>
 </div>
-<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug '23, 11:28 am</p>
+<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug &#39;23, 11:28 am</p>
 </div>
                </SwiperSlide>
                <SwiperSlide>
@@ -226,7 +226,7 @@ const Home = () => {
 "rgb(51, 211, 58)",}}></path></svg>
     <p className="text-[14px] text-[#f0f0f08d] ">Target Hit</p>
 </div>
-<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug '23, 11:28 am</p>
+<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug &#39;23, 11:28 am</p>
 </div>
                </SwiperSlide>
                <SwiperSlide>
@@ -247,7 +247,7 @@ const Home = () => {
 "rgb(51, 211, 58)",}}></path></svg>
     <p className="text-[14px] text-[#f0f0f08d] ">Target Hit</p>
 </div>
-<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug '23, 11:28 am</p>
+<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug &#39;23, 11:28 am</p>
 </div>
                </SwiperSlide>
                <SwiperSlide>
@@ -268,31 +268,9 @@ const Home = () => {
 "rgb(51, 211, 58)",}}></path></svg>
     <p className="text-[14px] text-[#f0f0f08d] ">Target Hit</p>
 </div>
-<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug '23, 11:28 am</p>
+<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug &#39;23, 11:28 am</p>
 </div>
-               </SwiperSlide>
-               <SwiperSlide>
-              <div className='gap-[8px] p-[24px] bg-[#2f2e36] h-[313px] w-[230px] rounded-[35px] flex flex-col justify-start items-start mt-[32px]'>
-
-<div class=""><Image alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.Imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
-</div>
-<div className='mt-[8px] w-[180px] flex flex-col'>
-<p className='text-[20px] font-bold'>MSFL</p>
-<p className="text-[18px] w-[128px] overflow-ellipsis overflow-hidden whitespace-nowrap text-[#f0f0f08d] ">Lorem ipsum dolor sit amet consectetur adipisicing</p>
-</div>
-<div className='flex items-center gap-[6px]'>
-<TbTriangleFilled color='#33d33a' fontSize="12px"/>
-<p className='text-[32px] font-semibold text-[#33d33a]'>7.3%</p>
-</div>
-<div className='mb-[4px] w-[128px] h-[40px] bg-[#36373f] rounded-3xl flex items-center justify-center gap-[8px]'> 
-<svg class="h-4 mb-1 lg:mb-0 lg:h-5 lg:w-5" width="" height="" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" style={{display: "inline-block",verticalAlign:"middle"}}><path d="M512 32c-265.6 0-480 214.4-480 480s214.4 480 480 480c265.6 0 480-214.4 480-480s-214.4-480-480-480zM736 441.6l-211.2 198.4c-35.2 32-89.6 32-128 0l-108.8-102.4c-22.4-22.4-22.4-57.6 0-80s57.6-22.4 76.8-3.2l96 89.6 198.4-185.6c22.4-22.4 57.6-19.2 76.8 3.2 22.4 22.4 22.4 57.6 0 80z" fill="rgb(255, 255, 255)" style={{fill: 
-"rgb(51, 211, 58)",}}></path></svg>
-    <p className="text-[14px] text-[#f0f0f08d] ">Target Hit</p>
-</div>
-<p className="text-[16px]  text-[#f0f0f08d] ">22 Aug '23, 11:28 am</p>
-</div>
-               </SwiperSlide>
-             
+               </SwiperSlide> 
              </Swiper>
     </div>
                 
@@ -303,7 +281,7 @@ const Home = () => {
     <Parallax/>
     <section className='bg-[#191725] font-poppins '>
          <div className='w-full lg:w-4/5 mx-auto py-[120px] flex flex-col items-center'>
-             <p className='font-semibold text-[#eb9236] mb-4 lg:mb-6 tracking-widest text-[15px]'>FAQ's</p>
+             <p className='font-semibold text-[#eb9236] mb-4 lg:mb-6 tracking-widest text-[15px]'>FAQ&#39;s</p>
              <div className='w-full '>
                <div className='py-[24px] w-full'>
                 <div className='flex items-center justify-between'>
@@ -405,7 +383,7 @@ const Home = () => {
               <div className='border border-white flex items-center justify-center rounded-[5rem] p-2'>
                 <a href="https://play.google.com/store/apps/details?id=life.liquide.app">
 
-                  <Image src={play} width={190} height={20} className="rounded-[5rem]"/>
+                  <Image alt='' src={play} width={190} height={20} className="rounded-[5rem]"/>
                 </a>
               </div>
               <div className='w-[200px]  border border-white rounded-[5rem] flex  justify-center'>
