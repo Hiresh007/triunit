@@ -1,8 +1,8 @@
 import React, {useRef} from 'react'
 import { useInView } from "react-intersection-observer";
-
+import Image from 'next/image';
 const Video = () => {
-    const imageRef = useRef(null);
+    const ImageRef = useRef(null);
     const { ref: firstContainer, inView: firstInView } = useInView({
         threshold: 0
       });
@@ -21,9 +21,9 @@ const Video = () => {
           return "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg";
         }
         if (secondInView)
-          return "https://images.ctfassets.net/hrltx12pl8hq/3MbF54EhWUhsXunc5Keueb/60774fbbff86e6bf6776f1e17a8016b4/04-nature_721703848.jpg?fit=fill&w=480&h=270";
+          return "https://Images.ctfassets.net/hrltx12pl8hq/3MbF54EhWUhsXunc5Keueb/60774fbbff86e6bf6776f1e17a8016b4/04-nature_721703848.jpg?fit=fill&w=480&h=270";
         if (thirdInView)
-          return "https://www.publicdomainpictures.net/pictures/320000/velka/background-image.png";
+          return "https://www.publicdomainpictures.net/pictures/320000/velka/background-Image.png";
       };
     
   return (
@@ -36,28 +36,28 @@ const Video = () => {
         <div className='lg:w-11/12'>
         <div class="p-4 w-1/3 lg:w-1/2  rounded-2xl border-[1px] border-gray-900 mt-2 saturate-0" style={{backgroundColor: "transparent"}}>
             <div class="flex items-center gap-4">
-            <div class=""><img alt="Prop" width="42" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-63/images/ourOfferings/tradeSetup.png"/></div>
+            <div class=""><Image alt="Prop" width="42" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-63/images/ourOfferings/tradeSetup.png"/></div>
             <div><p className='font-bold text-[20px] text-[#ffffff7a]'>Expert recommended trade setups</p></div></div>
             </div>
         <div class="p-4 w-1/3 lg:w-1/2  rounded-2xl border-[1px] border-gray-900 mt-2 saturate-0" style={{backgroundColor: "transparent"}}>
             <div class="flex items-center gap-4">
-            <div class=""><img alt="Prop" width="48" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-72/images/ourOfferings/limo.png"/></div>
+            <div class=""><Image alt="Prop" width="48" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-72/images/ourOfferings/limo.png"/></div>
             <div><p className='font-bold text-[20px] text-[#ffffff7a]'>
 LiMo: AI powered bot at your service</p></div></div>
             </div>
         <div class="p-4 w-1/3 lg:w-1/2  rounded-2xl border-[1px] border-gray-900 mt-2 saturate-0" style={{backgroundColor: "transparent"}}>
             <div class="flex items-center gap-4">
-            <div class=""><img alt="Prop" width="48" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-72/images/ourOfferings/portfoliohealth.png"/></div>
+            <div class=""><Image alt="Prop" width="48" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-72/images/ourOfferings/portfoliohealth.png"/></div>
             <div><p className='font-bold text-[20px] text-[#ffffff7a]'>Portfolio health checkup</p></div></div>
             </div>
         <div class="p-4 w-1/3 lg:w-1/2  rounded-2xl border-[1px] border-gray-900 mt-2 saturate-0" style={{backgroundColor: "transparent"}}>
             <div class="flex items-center gap-4">
-            <div class=""><img alt="Prop" width="48" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-72/images/ourOfferings/expertHotline.png"/></div>
+            <div class=""><Image alt="Prop" width="48" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-72/images/ourOfferings/expertHotline.png"/></div>
             <div><p className='font-bold text-[20px] text-[#ffffff7a]'>Expert hotline support for your portfolio</p></div></div>
             </div>
         <div class="p-4 w-1/3 lg:w-1/2  rounded-2xl border-[1px] border-gray-900 mt-2 saturate-0" style={{backgroundColor: "transparent"}}>
             <div class="flex items-center gap-4">
-            <div class=""><img alt="Prop" width="43" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-64.5/images/ourOfferings/marketCommentary.png"/></div>
+            <div class=""><Image alt="Prop" width="43" height="48" class="h-[48px] w-[48px] object-contain" src="https://ik.imagekit.io/liquide/tr:w-64.5/images/ourOfferings/marketCommentary.png"/></div>
             <div><p className='font-bold text-[20px] text-[#ffffff7a]'>Market expedition with screeners & market commentary</p></div></div>
             </div>
         </div>

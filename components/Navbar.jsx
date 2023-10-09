@@ -1,10 +1,10 @@
 import React from 'react'
-
+import Image from 'next/image'
 const Navbar = () => {
   return (
     <nav className='py-4 md:py-4 w-full z-50 top-0 fixed bg-gradient-to-b from-[#040509] to-[#141128] font-poppins  '>
       <div className='px-4 flex item-center justify-between'>
-      <div class=""><img alt="Liquide Logo" width="176" height="22" className="w-32 md:w-40 mx-2 undefined" src="https://ik.imagekit.io/liquide/tr:w-264/logos/Logo.png"/></div>
+      <div class=""><Image alt="Liquide Logo" width="176" height="22" className="w-32 md:w-40 mx-2 undefined" src="https://ik.Imagekit.io/liquide/tr:w-264/logos/Logo.png"/></div>
      
       <div className='flex gap-8 items-center'>
         <div className='flex'>
@@ -20,14 +20,14 @@ const Navbar = () => {
         <p className='font-bold text-[14px] text-[#55545F]' >News</p>
         </div>
         <div className='flex items-center'>
-        <img alt="Image" width="40" height="24" class="w-6 mx-2 opacity-30" src="https://ik.imagekit.io/liquide/tr:w-60/images/academy-navbar-icon.png"/>
+        <Image alt="Image" width="40" height="24" class="w-6 mx-2 opacity-30" src="https://ik.Imagekit.io/liquide/tr:w-60/Images/academy-navbar-icon.png"/>
         <p className='font-bold text-[14px] text-[#55545F]' >Academy</p>
         </div>
         <div className="ml-10">
-        <img alt="Image" width="56" height="48" class="h-12 w-12 mr-2" src="https://ik.imagekit.io/liquide/tr:w-84/images/v2/search-icon.png"/>
+        <Image alt="Image" width="56" height="48" class="h-12 w-12 mr-2" src="https://ik.imagekit.io/liquide/tr:w-84/images/v2/search-icon.png"/>
         </div>
       </div>
-      <div class="hidden md:hidden lg:block"><a target="_blank" href="https://liquide.app.link/RjV1UsMxAvb"><div class="flex justify-center items-center cursor-pointer w-max"><div class=""><img alt="Image" width="48" height="24" class="hidden md:block h-6 w-6 mr-6" src="https://ik.imagekit.io/liquide/tr:w-72/v2icons/barcode-icon.png"/></div><p class="font-bold text-xl not-italic">Download app</p></div></a></div>
+      <div class="hidden md:hidden lg:block"><a target="_blank" href="https://liquide.app.link/RjV1UsMxAvb"><div class="flex justify-center items-center cursor-pointer w-max"><div class=""><Image alt="Image" width="48" height="24" class="hidden md:block h-6 w-6 mr-6" src="https://ik.Imagekit.io/liquide/tr:w-72/v2icons/barcode-icon.png"/></div><p class="font-bold text-xl not-italic">Download app</p></div></a></div>
       </div>
     </nav>
   )

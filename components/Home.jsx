@@ -61,29 +61,29 @@ const Home = () => {
          
 
 
-          <div  class=" mt-12 lg:w-full lg:mt-0 min-h-full"  ><video disableremoteplayback="" loop="" autoplay=""  playsinline="" poster='https://ik.imagekit.io/liquide/images/video-play-image.png?tr=h-420,q-40' class="w-full lg:w-full rounded-[50px] object-fill mt-12"><source src="https://ik.imagekit.io/liquide/videos/liquide-promotional-video.mp4?tr=h-420,q-40" type="video/mp4"/></video></div>
+          <div  class=" mt-12 lg:w-full lg:mt-0 min-h-full"  ><video disableremoteplayback="" loop="" autoplay=""  playsinline="" poster='https://ik.imagekit.io/liquide/images/video-play-image.png?tr=h-420,q-40' class="w-full lg:w-full rounded-[50px] object-fill mt-12"><source src="https://ik.Imagekit.io/liquide/videos/liquide-promotional-video.mp4?tr=h-420,q-40" type="video/mp4"/></video></div>
           </div>
 
            <div class="hidden lg:block w-full mx-4 bt-2 border-[1px] lg:border-[1px] rounded-full opacity-20 lg:mt-16 lg:mb-16 lg:w-full"></div>
-          <div class="hidden lg:flex lg:justify-center lg:items-center mx-4"><div class="flex justify-center w-[50%] lg:w-[50%]"><div class=""><img alt="image" width="32" height="87" class="w-8 mt-1" src="https://ik.imagekit.io/liquide/tr:w-48/v2icons/liquide-broach.png"/></div><div class="ml-2 lg:ml-5"><p class="body1 leading-5 lg:desktopCaptionBold lg:leading-7 text-[20px] font-bold">Liquide Trust</p><p class="w-4/5 captionWhite leading-5 opacity-50 mt-2 lg:desktopCaption3Light lg:leading-6 lg:w-2/3 text-[14px]">Trade setups by SEBI Registered Research Analyst</p></div></div><div class="flex justify-center w-[50%] lg:w-[50%]">
+          <div class="hidden lg:flex lg:justify-center lg:items-center mx-4"><div class="flex justify-center w-[50%] lg:w-[50%]"><div class=""><Image alt="Image" width="32" height="87" class="w-8 mt-1" src="https://ik.Imagekit.io/liquide/tr:w-48/v2icons/liquide-broach.png"/></div><div class="ml-2 lg:ml-5"><p class="body1 leading-5 lg:desktopCaptionBold lg:leading-7 text-[20px] font-bold">Liquide Trust</p><p class="w-4/5 captionWhite leading-5 opacity-50 mt-2 lg:desktopCaption3Light lg:leading-6 lg:w-2/3 text-[14px]">Trade setups by SEBI Registered Research Analyst</p></div></div><div class="flex justify-center w-[50%] lg:w-[50%]">
             
-            <div class=""><img alt="image" width="30" height="84" class="w-8 mt-1" src="https://ik.imagekit.io/liquide/tr:w-45/v2icons/liquide-tick.png" /></div><div class="ml-2 lg:ml-5"><p class="body1 leading-5 lg:desktopCaptionBold lg:leading-7 text-[20px] font-bold">Liquide Secure</p><p class="w-4/5 captionWhite leading-5 opacity-50 mt-2 lg:desktopCaption3Light lg:leading-6 lg:w-2/3 text-[14px]">Buy stocks 100% securely in your own broker account</p></div></div><div class="flex justify-center w-[50%] lg:w-[50%]">
+            <div class=""><Image alt="Image" width="30" height="84" class="w-8 mt-1" src="https://ik.Imagekit.io/liquide/tr:w-45/v2icons/liquide-tick.png" /></div><div class="ml-2 lg:ml-5"><p class="body1 leading-5 lg:desktopCaptionBold lg:leading-7 text-[20px] font-bold">Liquide Secure</p><p class="w-4/5 captionWhite leading-5 opacity-50 mt-2 lg:desktopCaption3Light lg:leading-6 lg:w-2/3 text-[14px]">Buy stocks 100% securely in your own broker account</p></div></div><div class="flex justify-center w-[50%] lg:w-[50%]">
             
-            <div class=""><img alt="image" width="32" height="88" class="w-8 mt-1" src="https://ik.imagekit.io/liquide/tr:w-48/v2icons/dual-ring.png"/></div><div class="ml-2 lg:ml-5"><p class="body1 leading-5 lg:desktopCaptionBold lg:leading-7 text-[20px] font-bold">Transparent</p><p class="w-4/5 captionWhite leading-5 opacity-50 mt-2 lg:desktopCaption3Light lg:leading-6 lg:w-2/3 text-[14px]">Realtime tracking &amp; 
+            <div class=""><Image alt="Image" width="32" height="88" class="w-8 mt-1" src="https://ik.Imagekit.io/liquide/tr:w-48/v2icons/dual-ring.png"/></div><div class="ml-2 lg:ml-5"><p class="body1 leading-5 lg:desktopCaptionBold lg:leading-7 text-[20px] font-bold">Transparent</p><p class="w-4/5 captionWhite leading-5 opacity-50 mt-2 lg:desktopCaption3Light lg:leading-6 lg:w-2/3 text-[14px]">Realtime tracking &amp; 
           full user control</p></div></div></div>
        </div>
     </section>
     <section className='w-full bg-bg2 '>
          <div className='flex items-center justify-evenly py-7'>
-            <a href="https://inc42.com/buzz/wealthtech-startup-liquide-raises-funding-to-help-investors-manage-broker-accounts/" target='_blank'><img alt="cnbc" width="128" height="24" class="w-16 lg:w-32 mx-auto opacity-100 hover:opacity-100" src="https://ik.imagekit.io/liquide/tr:w-192/v2logos/media-highlights/inc-42.png"/></a>
+            <a href="https://inc42.com/buzz/wealthtech-startup-liquide-raises-funding-to-help-investors-manage-broker-accounts/" target='_blank'><Image alt="cnbc" width="128" height="24" class="w-16 lg:w-32 mx-auto opacity-100 hover:opacity-100" src="https://ik.Imagekit.io/liquide/tr:w-192/v2logos/media-highlights/inc-42.png"/></a>
 
-            <a target='_blank' href="https://www.cnbctv18.com/startup/funding-rundown-servify-raises-65-mn-in-ongoing-series-d-round-revsureai-bags-35-mn-loopworm-raises-34-mn-from-omnivore-14581621.htm"><img alt="cnbc" width="192" height="24" class="w-20 lg:w-48 mx-auto opacity-100 hover:opacity-100" src="https://ik.imagekit.io/liquide/tr:w-288/v2logos/media-highlights/cnbc.png"/></a>
-            <a target='_blank' href="https://viestories.com/wealthtech-liquide-raises-2-2-mn-in-pre-seed-round/"><img alt="cnbc" width="144" height="24" class="w-16 lg:w-36 mx-auto opacity-100 hover:opacity-100" src="https://ik.imagekit.io/liquide/tr:w-216/v2logos/media-highlights/yourstory.png"/></a>
+            <a target='_blank' href="https://www.cnbctv18.com/startup/funding-rundown-servify-raises-65-mn-in-ongoing-series-d-round-revsureai-bags-35-mn-loopworm-raises-34-mn-from-omnivore-14581621.htm"><Image alt="cnbc" width="192" height="24" class="w-20 lg:w-48 mx-auto opacity-100 hover:opacity-100" src="https://ik.Imagekit.io/liquide/tr:w-288/v2logos/media-highlights/cnbc.png"/></a>
+            <a target='_blank' href="https://viestories.com/wealthtech-liquide-raises-2-2-mn-in-pre-seed-round/"><Image alt="cnbc" width="144" height="24" class="w-16 lg:w-36 mx-auto opacity-100 hover:opacity-100" src="https://ik.Imagekit.io/liquide/tr:w-216/v2logos/media-highlights/yourstory.png"/></a>
             <a target='_blank' href="https://www.business-standard.com/article/companies/wealthtech-firm-liquide-raises-2-2-mn-pre-seed-led-by-m-venture-partners-122082400593_1.html">
-            <img alt="cnbc" width="305" height="24" class="w-32 lg:w-[305px] m-auto opacity-100 hover:opacity-100" src="https://ik.imagekit.io/liquide/tr:w-457.5/v2logos/media-highlights/business-standard.png"/>
+            <Image alt="cnbc" width="305" height="24" class="w-32 lg:w-[305px] m-auto opacity-100 hover:opacity-100" src="https://ik.Imagekit.io/liquide/tr:w-457.5/v2logos/media-highlights/business-standard.png"/>
             </a>
             <a target='_blank' href="https://entrackr.com/2022/08/wealthtech-platform-liquide-nets-2-2-mn-in-pre-seed-funding/">
-            <img alt="cnbc" width="192" height="24" class="w-20 lg:w-48 m-auto opacity-100 hover:opacity-100" src="https://ik.imagekit.io/liquide/tr:w-288/v2logos/media-highlights/entrackr.png"/>
+            <Image alt="cnbc" width="192" height="24" class="w-20 lg:w-48 m-auto opacity-100 hover:opacity-100" src="https://ik.Imagekit.io/liquide/tr:w-288/v2logos/media-highlights/entrackr.png"/>
             </a>
          </div>
     </section>
@@ -148,7 +148,7 @@ const Home = () => {
                <SwiperSlide>
               <div className='gap-[8px] p-[24px] bg-[#2f2e36] h-[313px] w-[230px] rounded-[35px] flex flex-col justify-start items-start mt-[32px]'>
 
-<div class=""><img alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
+<div class=""><Image alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.Imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
 </div>
 <div className='mt-[8px] w-[180px] flex flex-col'>
 <p className='text-[20px] font-bold'>MSFL</p>
@@ -169,7 +169,7 @@ const Home = () => {
                <SwiperSlide>
               <div className='gap-[8px] p-[24px] bg-[#2f2e36] h-[313px] w-[230px] rounded-[35px] flex flex-col justify-start items-start mt-[32px]'>
 
-<div class=""><img alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
+<div class=""><Image alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.Imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
 </div>
 <div className='mt-[8px] w-[180px] flex flex-col'>
 <p className='text-[20px] font-bold'>MSFL</p>
@@ -190,7 +190,7 @@ const Home = () => {
                <SwiperSlide>
               <div className='gap-[8px] p-[24px] bg-[#2f2e36] h-[313px] w-[230px] rounded-[35px] flex flex-col justify-start items-start mt-[32px]'>
 
-<div class=""><img alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
+<div class=""><Image alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.Imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
 </div>
 <div className='mt-[8px] w-[180px] flex flex-col'>
 <p className='text-[20px] font-bold'>MSFL</p>
@@ -211,7 +211,7 @@ const Home = () => {
                <SwiperSlide>
               <div className='gap-[8px] p-[24px] bg-[#2f2e36] h-[313px] w-[230px] rounded-[35px] flex flex-col justify-start items-start mt-[32px]'>
 
-<div class=""><img alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
+<div class=""><Image alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.Imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
 </div>
 <div className='mt-[8px] w-[180px] flex flex-col'>
 <p className='text-[20px] font-bold'>MSFL</p>
@@ -232,7 +232,7 @@ const Home = () => {
                <SwiperSlide>
               <div className='gap-[8px] p-[24px] bg-[#2f2e36] h-[313px] w-[230px] rounded-[35px] flex flex-col justify-start items-start mt-[32px]'>
 
-<div class=""><img alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
+<div class=""><Image alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.Imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
 </div>
 <div className='mt-[8px] w-[180px] flex flex-col'>
 <p className='text-[20px] font-bold'>MSFL</p>
@@ -253,7 +253,7 @@ const Home = () => {
                <SwiperSlide>
               <div className='gap-[8px] p-[24px] bg-[#2f2e36] h-[313px] w-[230px] rounded-[35px] flex flex-col justify-start items-start mt-[32px]'>
 
-<div class=""><img alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
+<div class=""><Image alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.Imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
 </div>
 <div className='mt-[8px] w-[180px] flex flex-col'>
 <p className='text-[20px] font-bold'>MSFL</p>
@@ -274,7 +274,7 @@ const Home = () => {
                <SwiperSlide>
               <div className='gap-[8px] p-[24px] bg-[#2f2e36] h-[313px] w-[230px] rounded-[35px] flex flex-col justify-start items-start mt-[32px]'>
 
-<div class=""><img alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
+<div class=""><Image alt="Image" width="50" height="50" class="w-10 h-10 p-1 rounded-xl lg:h-12 lg:w-12 object-contain bg-white" src="https://ik.Imagekit.io/liquide/tr:w-72/logos/MFSL_CROP.png"/>
 </div>
 <div className='mt-[8px] w-[180px] flex flex-col'>
 <p className='text-[20px] font-bold'>MSFL</p>
@@ -367,7 +367,7 @@ const Home = () => {
     </section>
     <footer className='bg-[#0d0c13] font-poppins'>
        <div className='pt-[32px] flex flex-col'>
-       <div class="flex justify-around w-full items-center mx-auto mt-5 lg:justify-between lg:w-4/5"><a class="flex justify-start text-white font-extrabold" href="/"><div class=""><img alt="Liquide Logo" width="164" height="23" class="w-32 md:w-40 mx-2 lg:-ml-1" src="https://ik.imagekit.io/liquide/tr:w-246/logos/Logo.png"/></div></a><div class=" lg:w-4/12 flex justify-around lg:items-center "><a target="_blank" href="https://t.me/liquideofficial" rel="noreferrer"><div class=""><img alt="telegram vector" width="56" height="27" class=" w-3 lg:w-6 mx-4 cursor-pointer" src="https://ik.imagekit.io/liquide/tr:w-84/v2icons/share.png"/></div></a><div><a target="_blank" href="https://www.instagram.com/liquide.life/" rel="noreferrer"><div class=""><img alt="instagram vector" width="56" height="27" class=" w-3 lg:w-6 mx-4 cursor-pointer" src="https://ik.imagekit.io/liquide/tr:w-84/v2icons/instagram-vector.png"/></div></a></div><div><a target="_blank" href="https://www.facebook.com/lifeisliquide" rel="noreferrer"><div class=""><img alt="facebook vector" width="56" height="27" class=" w-3 lg:w-6 mx-4" src="https://ik.imagekit.io/liquide/tr:w-84/v2icons/facebook-vector.png"/></div></a></div><div><a target="_blank" href="https://twitter.com/Liquide_Life" rel="noreferrer"><div class=""><img alt="twitter vector" width="56" height="27" class=" w-3 lg:w-6 mx-4" src="https://ik.imagekit.io/liquide/tr:w-84/v2icons/twitter-vector.png"/></div></a></div><div><a target="_blank" href="https://www.linkedin.com/company/liquidelife/" rel="noreferrer"><div class=""><img alt="linkedin vector" width="56" height="24" class=" w-3 lg:h-6 lg:w-6 mx-4" src="https://ik.imagekit.io/liquide/tr:w-84/v2icons/linkedin-vector.png"/></div></a></div>
+       <div class="flex justify-around w-full items-center mx-auto mt-5 lg:justify-between lg:w-4/5"><a class="flex justify-start text-white font-extrabold" href="/"><div class=""><Image alt="Liquide Logo" width="164" height="23" class="w-32 md:w-40 mx-2 lg:-ml-1" src="https://ik.Imagekit.io/liquide/tr:w-246/logos/Logo.png"/></div></a><div class=" lg:w-4/12 flex justify-around lg:items-center "><a target="_blank" href="https://t.me/liquideofficial" rel="noreferrer"><div class=""><Image alt="telegram vector" width="56" height="27" class=" w-3 lg:w-6 mx-4 cursor-pointer" src="https://ik.Imagekit.io/liquide/tr:w-84/v2icons/share.png"/></div></a><div><a target="_blank" href="https://www.instagram.com/liquide.life/" rel="noreferrer"><div class=""><Image alt="instagram vector" width="56" height="27" class=" w-3 lg:w-6 mx-4 cursor-pointer" src="https://ik.Imagekit.io/liquide/tr:w-84/v2icons/instagram-vector.png"/></div></a></div><div><a target="_blank" href="https://www.facebook.com/lifeisliquide" rel="noreferrer"><div class=""><Image alt="facebook vector" width="56" height="27" class=" w-3 lg:w-6 mx-4" src="https://ik.Imagekit.io/liquide/tr:w-84/v2icons/facebook-vector.png"/></div></a></div><div><a target="_blank" href="https://twitter.com/Liquide_Life" rel="noreferrer"><div class=""><Image alt="twitter vector" width="56" height="27" class=" w-3 lg:w-6 mx-4" src="https://ik.Imagekit.io/liquide/tr:w-84/v2icons/twitter-vector.png"/></div></a></div><div><a target="_blank" href="https://www.linkedin.com/company/liquidelife/" rel="noreferrer"><div class=""><Image alt="linkedin vector" width="56" height="24" class=" w-3 lg:h-6 lg:w-6 mx-4" src="https://ik.Imagekit.io/liquide/tr:w-84/v2icons/linkedin-vector.png"/></div></a></div>
        </div>
         </div>
         <div className='lg:w-4/5 lg:my-20 lg:mx-auto lg:grid lg:grid-cols-4 hidden'>
