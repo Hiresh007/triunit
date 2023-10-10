@@ -1,31 +1,7 @@
 import React, {useRef} from 'react'
-import { useInView } from "react-intersection-observer";
 import Image from 'next/image';
 const Video = () => {
-    const ImageRef = useRef(null);
-    const { ref: firstContainer, inView: firstInView } = useInView({
-        threshold: 0
-      });
-    
-      const { ref: secondContainer, inView: secondInView } = useInView({
-        threshold: 0
-      });
-    
-      const { ref: thirdContainer, inView: thirdInView } = useInView({
-        threshold: 0
-      });
 
-      const getImage = () => {
-        if (firstInView) {
-     
-          return "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg";
-        }
-        if (secondInView)
-          return "https://Images.ctfassets.net/hrltx12pl8hq/3MbF54EhWUhsXunc5Keueb/60774fbbff86e6bf6776f1e17a8016b4/04-nature_721703848.jpg?fit=fill&w=480&h=270";
-        if (thirdInView)
-          return "https://www.publicdomainpictures.net/pictures/320000/velka/background-Image.png";
-      };
-    
   return (
     <section className='bg-[#000101] lg:pt-[160px] lg:pb-[112px] w-full font-poppins '>
        <div className='lg:w-4/5 mx-auto'>
